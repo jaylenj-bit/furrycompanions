@@ -12,9 +12,6 @@ body {
       overflow: hidden;
     }
 
-    .image {
-      flex: 1;
-    }
 
     .content {
       flex: 1;
