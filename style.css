@@ -2,9 +2,8 @@ body {
   background-color: blue;
         }
 h1 {
-  position: relative;
-  margin-top: 100px;
-  margin-bottom: 450px;
-  margin-right: 300px;
-  margin-left: 80px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
 }
