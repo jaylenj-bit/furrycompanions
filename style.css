@@ -3,7 +3,7 @@ body {
         }
 h1 {
   position: fixed;
-  bottom: 0;
-  right: 0;
+  bottom: 500px;
+  right: 600px;
   width: 300px;
 }
