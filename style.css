@@ -7,8 +7,8 @@ body {
     }
 h1 {
       position: fixed;
-      bottom: 0px;
-      right: 150px;
+      bottom: 350px;
+      right: 250px;
       width 30px;
       color: white;
 }
