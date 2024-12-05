@@ -1,21 +1,22 @@
 body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      display: flex;
-      min-height: 100vh;
-      background-color: blue;
-    }
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  min-height: 100vh;
+  background-color: blue;
+}
 h1 {
-      position: fixed;
-      bottom: 440px;
-      right: 1120px;
-      width 30px;
-      color: white;
+  position: fixed;
+  margin-right: 320px;
+  bottom: 740px;
+  right: 230px;
+  width 30px;
+  color: white;
 }
 
 #logo{
-      position: fixed;
-      bottom: 450px;
-      right: 1180px;
-      
+  position: fixed;
+  bottom: 755px;
+  right: 530px;
+
 }
