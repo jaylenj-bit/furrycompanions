@@ -9,7 +9,7 @@ h1 {
   position: fixed;
   margin-right: 320px;
   bottom: 740px;
-  right: 230px;
+  right: 430px;
   width 30px;
   color: white;
 }
@@ -17,6 +17,6 @@ h1 {
 #logo{
   position: fixed;
   bottom: 755px;
-  right: 850px;
+  right: 1050px;
 
 }
