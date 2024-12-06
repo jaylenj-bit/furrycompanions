@@ -10,7 +10,6 @@ h1 {
   margin-right: 320px;
   bottom: 840px;
   right: 430px;
-  width 30px;
   color: white;
 }
 
@@ -19,4 +18,24 @@ h1 {
   bottom: 855px;
   right: 1050px;
 
+}
+
+#top-quote {
+  position: fixed;
+  margin-right: 420px;
+  bottom: 640px;
+  right: 430px;
+  font-size: 30px;
+  text-align: left; 
+  color: white;
+}
+
+#bottom-quote {
+  position: fixed;
+  margin-left: 420px;
+  bottom: 550px;
+  right: 330px;
+  font-size: 30px;
+  text-align: right; 
+  color: white;
 }
