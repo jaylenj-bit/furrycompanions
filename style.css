@@ -8,7 +8,7 @@ body {
 h1 {
   position: fixed;
   margin-right: 320px;
-  bottom: 740px;
+  bottom: 840px;
   right: 430px;
   width 30px;
   color: white;
@@ -16,7 +16,7 @@ h1 {
 
 #logo{
   position: fixed;
-  bottom: 755px;
+  bottom: 855px;
   right: 1050px;
 
 }
