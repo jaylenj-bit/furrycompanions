@@ -22,20 +22,20 @@ h1 {
 
 #top-quote {
   position: fixed;
-  margin-right: 420px;
+  margin-right: 1020px;
   bottom: 640px;
   right: 430px;
-  font-size: 30px;
+  font-size: 20px;
   text-align: left; 
   color: white;
 }
 
 #bottom-quote {
   position: fixed;
-  margin-left: 420px;
-  bottom: 550px;
-  right: 330px;
-  font-size: 30px;
+  margin-left: 1020px;
+  bottom: 450px;
+  right: 230px;
+  font-size: 20px;
   text-align: right; 
   color: white;
 }
