@@ -11,7 +11,7 @@ body {
 } 
 
 h1 {
-  position: fixed;
+  position: relative;
   margin-right: 320px;
   bottom: 840px;
   right: 430px;
@@ -19,14 +19,14 @@ h1 {
 }
 
 #logo{
-  position: fixed;
+  position: relative;
   bottom: 855px;
   right: 1050px;
 
 }
 
 #top-quote {
-  position: fixed;
+  position: relative;
   margin-right: 1020px;
   bottom: 640px;
   right: 330px;
@@ -36,7 +36,7 @@ h1 {
 }
 
 #bottom-quote {
-  position: fixed;
+  position: relative;
   margin-left: 2020px;
   bottom: 450px;
   right: 230px;
