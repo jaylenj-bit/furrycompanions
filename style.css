@@ -7,7 +7,7 @@ body {
 }
 
 #img {
-  position: fixed;
+  position: relative;
 } 
 
 h1 {
