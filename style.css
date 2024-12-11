@@ -7,40 +7,49 @@ body {
 }
 
 #img {
-  position: relative;
+  position: absolute;
 } 
 
 h1 {
-  position: relative;
-  margin-right: 320px;
-  bottom: 840px;
-  right: 430px;
+  position: absolute;
+  bottom: 940px;
+  right: 860px;
   color: white;
+  font-size: 50px;
 }
 
 #logo{
-  position: relative;
-  bottom: 855px;
-  right: 1050px;
+  position: absolute;
+  bottom: 960px;
+  right: 1330px;
+
 
 }
 
 #top-quote {
-  position: relative;
-  margin-right: 1020px;
+  position: absolute;
+  left: 1030px;
+  margin-right: 550px;
   bottom: 640px;
-  right: 330px;
-  font-size: 20px;
+  font-size: 40px;
   text-align: left; 
   color: white;
 }
 
 #bottom-quote {
-  position: relative;
-  margin-left: 2020px;
-  bottom: 450px;
-  right: 230px;
-  font-size: 20px;
+  position: absolute;
+  margin-left: 1250px;
+  bottom: 420px;
+  right: 140px;
+  font-size: 40px;
   text-align: right; 
   color: white;
+}
+
+#button {
+  position: absolute;
+  bottom: 340px;
+  right: 900px;
+  color: white;
+  border: 3px white solid;
 }
