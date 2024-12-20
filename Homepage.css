@@ -1,0 +1,101 @@
+html {
+  height: 150%;
+  width: 100%;
+}
+
+
+body {
+  display: scroll;
+  background-image: url("blueback.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  min-height: 1000px;
+  min-width: 1000px;
+}
+
+.container{
+  display: flex;
+  height: 250px;
+  background-color: lightgray;
+}
+
+#AU {
+  position: absolute;
+  bottom: 650px;
+  right: 1770px;
+  color: black;
+  font-size: 50px;
+}
+
+.container2 {
+  position: absolute;
+  background-color: lightgray;
+  border: 5px dotted black;
+  margin-right: 1400px;
+  left: 70px;
+  bottom: 400px;
+  font-size: 30px;
+  font-style: italic;
+}
+
+#browndog {
+  position: absolute;
+  bottom: 300px;
+  right: 350px;
+}
+
+#kitten{
+  position: absolute;
+  bottom: -90px;
+  left: 460px;
+}
+
+#blackdog {
+  position: absolute;
+  bottom: -90px;
+  left: 100px;
+}
+
+#golden {
+  position: absolute;
+  bottom: -450px;
+  left: 100px;
+}
+
+#dogcat {
+  position: absolute;
+  bottom: -450px;
+  left: 460px;
+}
+
+h2 {
+  position: absolute;
+  bottom: 50px;
+  left: 1000px;
+  font-size: 90px;
+}
+
+#sell {
+  position: absolute;
+  background-color: lightgray;
+  border: 5px dotted black;
+  margin-right: 200px;
+  left: 1000px;
+  bottom: -200px;
+  font-size: 30px;
+  font-style: italic;
+}
+
+#sell-button {
+  position: absolute;
+  text-align: center;
+  background-color: white;
+  border: 5px dotted black;
+  top: 50px;
+  left: 50px;
+  font-size: 50px;
+  font-style: italic;
+  width: 100px;
+}
