@@ -13,7 +13,7 @@ body {
 h1 {
   position: absolute;
   bottom: 940px;
-  right: 860px;
+  right: 660px;
   color: white;
   font-size: 50px;
 }
@@ -21,7 +21,7 @@ h1 {
 #logo{
   position: absolute;
   bottom: 960px;
-  right: 1330px;
+  right: 1230px;
 
 
 }
@@ -39,7 +39,7 @@ h1 {
 #bottom-quote {
   position: absolute;
   margin-left: 1250px;
-  bottom: 420px;
+  bottom: 380px;
   right: 140px;
   font-size: 40px;
   text-align: right; 
